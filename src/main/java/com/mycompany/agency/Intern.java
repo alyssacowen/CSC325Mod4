@@ -18,9 +18,9 @@ public class Intern extends StaffEmployee
     //-----------------------------------------------------------------
     public Intern(String eName, String eAddress, String ePhone){
     
-        this.eName=eName;
-        this.eAddress=eAddress;
-        this.ePhone=ePhone;
+        this.eName = eName;
+        this.eAddress = eAddress;
+        this.ePhone = ePhone;
     }
 
     //-----------------------------------------------------------------
